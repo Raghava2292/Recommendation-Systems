@@ -1,0 +1,3 @@
+Built a recommendation system by using cosine simillarties score. But the similarity scores are negligible (zeroes) between all the components. So, I also built recommendation system by using the Euclidean distances which gave some meaningful results.
+
+The recommendation systems are built for the normal data as well as the normalized normalized data to get much more accurate results.
